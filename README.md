@@ -1,6 +1,3 @@
-Here's the updated `README.md` file, considering you'll be using SQL Server Management Studio (SSMS):
-
-```markdown
 # Pharmacy Management System
 
 This project is a simple Pharmacy Management System developed in Java using Swing for the user interface and SQL Server for the database. The application allows you to add and view drugs, customers, suppliers, and purchase history.
