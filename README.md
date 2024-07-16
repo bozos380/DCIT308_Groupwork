@@ -164,7 +164,7 @@ The Pharmacy Management System is a Java-based application designed to manage th
 - **Josephina Ashong** - *10961638* - [Josephina Ashong](https://github.com/contributor-username)
 - **Owusu-Asare Derrick** - *10984555* - [Owusu-Asare Derrick](https://github.com/showmandem)
 - **Justice Addo** - *10966864* - [Justice Addo](https://github.com/contributor-username)
-- **Adjabeng Maa Abena** - *10960201* - [Adjabeng Maa Abena](https://github.com/contributor-username)
+- **Adjabeng Maa Abena** - *10960201* - [Adjabeng Maa Abena](https://github.com/Maamedtr)
 - **Bozoma Mame Duku** - *10982457* - [Bozoma Mame Duku](https://github.com/bozos380)
 
 ## License
